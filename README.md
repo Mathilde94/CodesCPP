@@ -8,3 +8,7 @@ Describe the Hanoi movements, between the 3 towers, to move the elements from th
 One movement possible at a time, can only put an element on top of a bigger element, or no element at all.
 
 Number of movements:  2^n-1 with n = number of elements in the tower.
+
+
+Hash.cpp:
+g++ hash.cpp; ./a.out london.txt
